@@ -3,6 +3,6 @@
 	"ENTER_EMAIL": "Insira seu endereço de e-mail",
 	"ENTER_TOKEN": "Digite seu Token de convite que foi dado a você",
 	"TITLE": "Junte-se a comunida %s no Slack!",
-	"ERROR_ENVI": "Failed teste! The email you entered is an invalid email."
+	"ERROR_ENVI": "Failed teste! The email you entered is an invalid email." 
 }
 
